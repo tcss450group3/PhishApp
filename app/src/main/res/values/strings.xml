@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Phish App</string>
+
+    <string name="phish_app">Phish App</string>
+
+    <!--Registration / login strings-->
+    <string name="password_field">Password</string>
+    <string name="email_field">Email</string>
+    <string name="retype_password">Retype Password</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="username">User Name</string>
+    <string name="register">Register</string>
+    <string name="sign_in">Sign In</string>
+
+    <!--Home activity and menu-->
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_home_item">Home</string>
+    <string name="navigation_drawer_blogpost_item">Blog Posts</string>
+    <string name="navigation_drawer_setlist_item">Set Lists</string>
+    <string name="navigation_drawer_global_chat_item">Global Chat</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Phish App</string>
+    <string name="nav_header_subtitle">TCSS 450 Labs</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Logout</string>
+
+    <string name="view_full">View Full Post</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

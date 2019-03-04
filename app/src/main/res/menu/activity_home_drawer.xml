@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/id_drawer_home_select"
+            android:icon="?android:attr/actionModePasteDrawable"
+            android:title="@string/navigation_drawer_home_item" />
+        <item
+            android:id="@+id/id_blog_post_select"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/navigation_drawer_blogpost_item" />
+        <item
+            android:id="@+id/id_setlist_post_select"
+            android:icon="@android:drawable/ic_lock_silent_mode_off"
+            android:title="@string/navigation_drawer_setlist_item" />
+        <item
+            android:id="@+id/id_global_chat_select"
+            android:icon="@android:drawable/sym_action_chat"
+            android:title="@string/navigation_drawer_global_chat_item" />
+    </group>
+
+</menu>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources tools:ignore="ExtraTranslation" xmlns:tools="http://schemas.android.com/tools">
+
+
+    <string name="keys_shared_prefs">edu.uw.tcss450.phishapp.PREFS</string>
+    <string name="keys_prefs_email">traffic_light_wont_let_me_through</string>
+    <string name="keys_prefs_password">see_the_city_see_the_zoo</string>
+
+
+    <string name="keys_prefs_username">username</string>
+    <string name="keys_prefs_stay_logged_in">loggedIn</string>
+    <string name="keys_fragment_login">loginFragmentTag</string>
+    <string name="keys_fragment_register">registerFragmentTag</string>
+
+
+    <string name="keys_intent_credentials">intent key for creds</string>
+    <string name="keys_intent_jwt">intent key for jwt</string>
+    <string name="keys_intent_notification_msg">was app started from message notification?</string>
+
+    <string name="keys_json_login_success">success</string>
+    <string name="keys_json_login_jwt">token</string>
+
+    <string name="keys_json_blogs_response">response</string>
+    <string name="keys_json_blogs_data">data</string>
+    <string name="keys_json_blogs_pubdate">pubdate</string>
+    <string name="keys_json_blogs_title">title</string>
+    <string name="keys_json_blogs_teaser">teaser</string>
+    <string name="keys_json_blogs_url">url</string>
+
+    <string name="keys_json_setlist_response">response</string>
+    <string name="keys_json_setlist_data">data</string>
+    <string name="keys_json_setlist_date">long_date</string>
+    <string name="keys_json_setlist_location">location</string>
+    <string name="keys_json_setlist_venue">venue</string>
+    <string name="keys_json_setlist_notes">setlistnotes</string>
+    <string name="keys_json_setlist_setlistdata">setlistdata</string>
+    <string name="keys_json_setlist_url">url</string>
+
+
+</resources>
